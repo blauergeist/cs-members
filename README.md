@@ -1,4 +1,5 @@
 An app made to showcase basics of creating a React app.
+It creates a card for each player object, uses an API to generate a unique random profile picture according to the hash of the player ID, filters players according to their name.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
