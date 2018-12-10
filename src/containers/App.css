@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'BloodWax';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BloodWax'), url('BLOODWAX.woff') format('woff');
+}
+
+.title{
+    font-family: 'BloodWax';
+    font-weight: 400;
+    color: #91e9e2;
+    margin-top: 5%
+}
+
+h1{
+    font-family: 'BloodWax';
+    font-weight: 200;
+    color: #c739da6b
+}
